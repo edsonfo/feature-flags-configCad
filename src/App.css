@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  min-height: 100vh;
+}
+
+.__actions {
+  display: flex;
+  justify-content: center;
+  
+}
+
+.__button {
+  background-color: skyblue;
+  border: none;
+  color: white;
+  font-weight: bold;
+  padding: 1rem;
+  margin: 1rem;
+}
